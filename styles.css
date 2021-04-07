@@ -1,0 +1,27 @@
+body {
+  background-color: #eeebdd;
+  text-align: center;
+}
+
+h1 {
+  color: #ce1212;
+}
+
+h3 {
+  color: #ce1212;
+}
+
+.container {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.player {
+  display: inline-block;
+  width: 45%;
+  border: 2px solid;
+}
+
+.img_dice {
+  width: 50%;
+}
